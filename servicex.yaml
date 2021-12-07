@@ -1,9 +1,4 @@
 api_endpoints:
-  - name: uproot-af
-    endpoint: https://uproot-atlas.servicex.af.uchicago.edu/
-    token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MzI3NjA5MjgsIm5iZiI6MTYzMjc2MDkyOCwianRpIjoiNWY5NDkzMjctMWJjMi00NzQ4LTg4NjktZWQ3NzQ1NDQ3NTczIiwiaWRlbnRpdHkiOiJhNTFkYmQ3ZS1kMjc0LTExZTUtOWIxMS05YmUzNDdhMDljZTAiLCJ0eXBlIjoicmVmcmVzaCJ9.ZVOyENdo30v8BxHTVMU4Sg4sRbdvrcUWapeMJnrJKoE
-    type: uproot
-
   - name: uproot-fabric
     endpoint: https://servicex.fabric-servicex.ssl-hep.org:30000/
     type: uproot
